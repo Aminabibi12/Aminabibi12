@@ -15,6 +15,7 @@ Skills and Technology:
 
   Projects:
 - https://soul-plates.migracode.org/  (Full-Stack website for NGO)
+- https://hotel-sandy.vercel.app/  ( Fully responsive hotel app )
 - https://code-up-app.vercel.app/  (Frontend app for educational institute)
 - https://resume-app-lyart.vercel.app/ (Make a quick resume and download)
 - https://ricknmorty-fetch-api.netlify.app/ (Rick N Morty fetch Api dynamic web page).
