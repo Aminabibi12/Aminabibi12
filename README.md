@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Barcelona, Spain.
 - 📫 How to reach me "bibiamina453@gmail.com"
 - 😄 Pronouns: She
-- ⚡ Fun fact: I'm the one who loves watching animated shows with my kids. 🤭
+- ⚡ Fun fact: I'm the one who loves watching cartoon shows with my kids. 🤭
 
 Skills and Technology:
 - Frontend (Bootstrap, JavaScript, React).
