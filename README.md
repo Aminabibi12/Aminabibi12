@@ -24,7 +24,7 @@ __Projects__:
 - __Hotel-App__  ( Fully responsive hotel app )
 - __code-up__  (Frontend app for educational institute)
 - __ResumeRise__ (Make a quick resume and download the pdf)
-- __Text Document app__ (Make a quick cover letter and doenload the pdf)
+- __Text Document app__ (Make a quick cover letter and download the pdf)
 - __Rick N Morty__ (Rick N Morty fetch Api dynamic web page).
 
 __Know more about me in my portfolio__
