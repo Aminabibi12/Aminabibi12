@@ -27,6 +27,6 @@ __Projects__:
 - __Text Document app__ (Make a quick cover letter and doenload the pdf)
 - __Rick N Morty__ (Rick N Morty fetch Api dynamic web page).
 
-__check more about me in my portfolio__
+__Know more about me in my portfolio__
 
 https://portfolio-one-gold-83.vercel.app/
