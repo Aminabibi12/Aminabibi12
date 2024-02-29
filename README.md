@@ -6,16 +6,27 @@
 - ⚡ Fun fact: I'm the one who loves watching cartoon shows with my kids. 🤭
 
 __Skills and Technology__:
+
 - Frontend (Bootstrap, JavaScript, React).
 - Backend (Node.js, PostgreSQL).
 - Project Management tool (Trello).
 - Project Management Methodologies (Scrum and Agile ).
 - Project Deployment Platform (Vercel, Netlify).
   
+ __Professional Experience__:
+ 
+- Experienced as __Computer Studies__ teacher and __web development__.
 
+ 
 __Projects__:
-- https://soul-plates.migracode.org/  (Full-Stack website for NGO)
-- https://hotel-sandy.vercel.app/  ( Fully responsive hotel app )
-- https://code-up-app.vercel.app/  (Frontend app for educational institute)
-- https://resume-app-lyart.vercel.app/ (Make a quick resume and download)
-- https://ricknmorty-fetch-api.netlify.app/ (Rick N Morty fetch Api dynamic web page).
+
+- __Soul-pates__  (Full-Stack website for NGO)
+- __Hotel-App__  ( Fully responsive hotel app )
+- __code-up__  (Frontend app for educational institute)
+- __ResumeRise__ (Make a quick resume and download the pdf)
+- __Text Document app__ (Make a quick cover letter and doenload the pdf)
+- __Rick N Morty__ (Rick N Morty fetch Api dynamic web page).
+
+__check more about me in my portfolio__
+
+https://portfolio-one-gold-83.vercel.app/
