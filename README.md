@@ -1,6 +1,6 @@
 - 👋 Hi, I’m __Amina__.
 - 👀 I’m interested in Full-Stack developer role.
-- 🌱 I’m currently learning Barcelona, Spain.
+- 🌱 I’m currently living Barcelona, Spain.
 - 📫 How to reach me "bibiamina453@gmail.com"
 - 😄 Pronouns: She
 - ⚡ Fun fact: I'm the one who loves watching cartoon shows with my kids. 🤭
