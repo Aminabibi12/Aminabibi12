@@ -15,6 +15,8 @@
 ⚡ Fun fact: I enjoy watching cartoon shows with my kids—probably more than them! 🤭
 
 
+
+
 🚀 __Skills and Technology__:
 
 - __Frontend__ (Bootstrap, JavaScript, React, Next.js).
@@ -22,6 +24,9 @@
 - __Project Management__ tool (Trello).
 - __Project Management Methodologies__ (Scrum and Agile ).
 - __Project Deployment Platform__ (Vercel, Netlify).
+
+
+
   
  💼 __Professional Experience__:
 
@@ -29,12 +34,17 @@ __Inside Partner Engineer__ __(Google Partner Engineer)__ at Concentrix, Barcelo
 __Platform Operations Manager__ at Lagertha, Barcelona
 __Computer Studies Teacher__ & __Web Developer__
 
+
+
+
 🎓 __Certification__:
 
 - __Google Cloud Digital Leader__
 - __Google Associate Cloud Engineer__
 - __Google Professioal Cloud Architect__
 - __AWS Cloud Practitioner certified__
+
+
 
 
 💻 __Projects__
