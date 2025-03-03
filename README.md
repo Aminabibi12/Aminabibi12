@@ -1,10 +1,17 @@
 👋 Hi, I’m __Amina__!
+
 💪 Passionate about __technology__, __innovation__, and __problem-solving__.
+
 💼 Currently working as a __Solutions Architect__, turning ideas into scalable solutions.
+
 🌍 Based in __Barcelona__, Spain.
+
 👩‍💻 Skilled in __coding__, and I love bringing my ideas to life through projects.
-📫 Reach me at bibiamina453@gmail.com
-😄 Pronouns: She/Her
+
+📫 Reach me at __bibiamina453@gmail.com__
+
+😄 Pronouns: __She/Her__
+
 ⚡ Fun fact: I enjoy watching cartoon shows with my kids—probably more than them! 🤭
 
 
