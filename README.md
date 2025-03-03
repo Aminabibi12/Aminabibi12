@@ -48,11 +48,17 @@ __Computer Studies Teacher__ & __Web Developer__
 
 
 💻 __Projects__
+
 As a tech enthusiast, I bring my ideas to life through coding. Here are some of my projects:
 
-**Soul-Pates** – Full-stack website for an NGO
-**Hotel-App** – Fully responsive hotel booking app
-**Code-Up** – Frontend app for an educational institute
-**ResumeRise** – Quick resume generator with PDF download
-**Text Document App** – Cover letter generator with PDF download
-**Rick N Morty** – Dynamic web page using Rick & Morty API
+__Soul-Pates__ – Full-stack website for an NGO.  (https://soul-plates.migracode.org/)
+
+__Pokemon webpage__ - A dynamic web page with multiple API endpoints fetching data and dynamic routes.  (https://pokemon-app-delta-three.vercel.app/)
+
+__Hotel-App__ – Fully responsive hotel booking app.  (https://hotel-sandy.vercel.app/)
+
+__Code-Up__ – Frontend app for an educational institute   (https://code-up-app.vercel.app/)
+
+__ResumeRise__ – Quick resume generator with PDF download   (https://resume-app-lyart.vercel.app/)
+
+__Rick N Morty__ – Dynamic web page using Rick & Morty API   (https://ricknmorty-fetch-api.netlify.app/)
