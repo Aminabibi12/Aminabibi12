@@ -1,9 +1,12 @@
-- 👋 Hi, I’m __Amina__.
-- 👀 I’m interested in Full-Stack developer role.
-- 🌱 I’m currently living Barcelona, Spain.
-- 📫 How to reach me "bibiamina453@gmail.com"
-- 😄 Pronouns: She
-- ⚡ Fun fact: I'm the one who loves watching cartoon shows with my kids. 🤭
+👋 Hi, I’m __Amina__!
+💪 Passionate about __technology__, __innovation__, and __problem-solving__.
+💼 Currently working as a __Solutions Architect__, turning ideas into scalable solutions.
+🌍 Based in __Barcelona__, Spain.
+👩‍💻 Skilled in __coding__, and I love bringing my ideas to life through projects.
+📫 Reach me at bibiamina453@gmail.com
+😄 Pronouns: She/Her
+⚡ Fun fact: I enjoy watching cartoon shows with my kids—probably more than them! 🤭
+
 
 __Skills and Technology__:
 
@@ -14,19 +17,26 @@ __Skills and Technology__:
 - Project Deployment Platform (Vercel, Netlify).
   
  __Professional Experience__:
- 
+
+- Currently working as an __Inside Partner Engineer__ __(Google Partner Engineer)__ at __Concentrix__ Barcelona.
+- Experieced as __Platform operatios Maager__ at __lagertha__ Barcelona.
 - Experienced as __Computer Studies__ teacher and __web development__.
 
- 
-__Projects__:
 
-- __Soul-pates__  (Full-Stack website for NGO)
-- __Hotel-App__  ( Fully responsive hotel app )
-- __code-up__  (Frontend app for educational institute)
-- __ResumeRise__ (Make a quick resume and download the pdf)
-- __Text Document app__ (Make a quick cover letter and download the pdf)
-- __Rick N Morty__ (Rick N Morty fetch Api dynamic web page).
+__Certification__:
 
-__Know more about me in my portfolio__
+- __Google Cloud Digital Leader__
+- __Google Associate Cloud Engineer__
+- __Google Professioal Cloud Architect__
+- __AWS Cloud Practitioner certified__
 
-https://portfolio-one-gold-83.vercel.app/
+
+💻 __Projects__
+As a tech enthusiast, I bring my ideas to life through coding. Here are some of my projects:
+
+**Soul-Pates** – Full-stack website for an NGO
+**Hotel-App** – Fully responsive hotel booking app
+**Code-Up** – Frontend app for an educational institute
+**ResumeRise** – Quick resume generator with PDF download
+**Text Document App** – Cover letter generator with PDF download
+**Rick N Morty** – Dynamic web page using Rick & Morty API
