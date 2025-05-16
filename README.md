@@ -42,6 +42,7 @@ __Computer Studies Teacher__ & __Web Developer__
 - __Google Cloud Digital Leader__
 - __Google Associate Cloud Engineer__
 - __Google Professioal Cloud Architect__
+- __Google professional Cloud database Engineer__
 - __AWS Cloud Practitioner certified__
 
 
